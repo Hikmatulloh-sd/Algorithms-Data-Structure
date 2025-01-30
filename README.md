@@ -1,8 +1,5 @@
 # 🔢 Algorithms and Data Structures
 
-![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/REPO_NAME?color=blue&label=Repo%20Size)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/REPO_NAME)
 
 > 📚 **Коллекция алгоритмов и структур данных на Python** – отличное место для изучения и подготовки к собеседованиям!
 
