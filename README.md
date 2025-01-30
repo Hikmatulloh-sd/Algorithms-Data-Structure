@@ -1,2 +1,49 @@
-# Algorithms-Data-Structure
-This repository contains the implementation of classical algorithms and data structures in Python. It is designed to be studied, repeated, and prepared for technical interviews.
+# 🔢 Algorithms and Data Structures
+
+![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/REPO_NAME?color=blue&label=Repo%20Size)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![License](https://img.shields.io/github/license/YOUR_USERNAME/REPO_NAME)
+
+> 📚 **Коллекция алгоритмов и структур данных на Python** – отличное место для изучения и подготовки к собеседованиям!
+
+---
+
+## 📂 Содержание
+
+📌 **Структуры данных**  
+- 📜 Связанные списки
+- 🏗 Стек и очередь
+- 🌳 Деревья (BST, AVL)
+- 🔢 Хеш-таблицы
+- 🔗 Графы
+
+⚡ **Алгоритмы**  
+- 📊 Сортировки (Bubble, Merge, Quick, Heap)
+- 🔍 Поиск (линейный, бинарный)
+- 💰 Жадные алгоритмы
+- 🔄 Динамическое программирование
+- 🧭 DFS и BFS (поиск в глубину и ширину)
+
+---
+
+## 🚀 Использование
+
+1️⃣ **Клонируйте репозиторий**  
+```bash
+git clone https://github.com/Hikmatulloh-sd/Algorithms-Data-Structure.git
+cd Algorithms-Data-Structure
+```
+
+2️⃣ **Откройте файлы и изучайте код**  
+
+---
+
+## 🤝 Вклад
+
+✅ Форкайте репозиторий  
+✅ Создавайте новые ветки для изменений  
+✅ Открывайте Pull Requests с улучшениями 🔥  
+
+📩 Если у вас есть вопросы, создайте Issue или напишите мне! 😃
+
+---
